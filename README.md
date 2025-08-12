@@ -1,4 +1,5 @@
 🚀 Loan Approval Prediction
+
 This project uses machine learning models to predict loan approval status based on applicant details. Our mission is to build and evaluate predictive models that can assist in automating the loan approval process, making it faster and more efficient. 🤖
 
 📝 Project Description
