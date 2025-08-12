@@ -12,9 +12,6 @@ Model Evaluation: Assessing the performance of both models using key metrics lik
 
 Model Persistence: Saving the best-performing model (the Random Forest model) as a pickle file (loan_model.pkl) so it can be used for future predictions without retraining. 💾
 
-🧑‍💻 Author
-Shalini Saurav
-
 🛠️ Technologies and Libraries
 The project is built with the following essential Python libraries:
 
@@ -124,3 +121,7 @@ if prediction[0] == 1:
     print("Loan Approved")
 else:
     print("Loan Rejected")
+
+  👩‍💻 Author
+  Shalini Saurav
+
