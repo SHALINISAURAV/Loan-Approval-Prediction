@@ -28,23 +28,6 @@ DecisionTreeClassifier: Our first predictive model.
 RandomForestClassifier: The ensemble model that won! 🎉
 classification_report, accuracy_score, confusion_matrix: Evaluating model success.
 
-pickle: Saving and loading our trained model.
-
-⚙️ Installation and Setup
-
-Getting started is easy! Follow these steps:
-
-Clone the repository:
-
-git clone <repository-url>
-
-Install the required dependencies:
-
-pip install pandas numpy scikit-learn matplotlib seaborn
-
-Run the Jupyter notebook:
-Open the Loan Approval Prediction.ipynb file in a Jupyter environment to execute the code and see the full analysis in action. 🚀
-
 📊 Dataset
 The project uses the loan_approval_dataset.csv file. It's packed with key features about loan applicants, including:
 
@@ -64,7 +47,7 @@ bank_asset_value
 loan_status (Our target variable! Approved or Rejected)
 
 💡 Usage
-To use the trained model for making predictions on new data, you can load the loan_model.pkl file and follow this example:
+pickle: Saving and loading our trained model.
 
 import pickle
 import pandas as pd
