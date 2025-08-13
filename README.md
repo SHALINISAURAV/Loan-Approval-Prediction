@@ -50,7 +50,7 @@ This project implements a **complete ML pipeline** for predicting whether a loan
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone <repository-url>
+git clone <https://github.com/SHALINISAURAV/Loan-Approval-Prediction>
 ```
 
 2️⃣ **Install dependencies**  
